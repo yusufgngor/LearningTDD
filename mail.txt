@@ -1,0 +1,25 @@
+Konum Bilgilerinin tutulması 
+
+-Her bir lokasyon için, o lokasyona ait latitude longitude bilgilerinin verilmesi. 
+Örnek
+{
+      "bolgeID": 1050,
+      "ilid": 34,
+      "ilceid": 857,
+      "bolgeAdi": "Bayrampaşa"
+      "longitude":41.0167
+      "latitude":28.9331
+},
+
+Örnek2
+{
+      "bolgeID": 1050,
+      "ilid": 34,
+      "ilceid": 857,
+      "bolgeAdi": "Bayrampaşa"
+      "konum": {
+                 "longitude":41.0167,
+                  "latitude":28.9331
+      }
+     
+},
