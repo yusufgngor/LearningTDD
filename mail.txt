@@ -9,6 +9,7 @@ Konum Bilgilerinin tutulması
       "bolgeAdi": "Bayrampaşa"
       "longitude":41.0167
       "latitude":28.9331
+      
 },
 
 Örnek2
